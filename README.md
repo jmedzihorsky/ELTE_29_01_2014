@@ -19,12 +19,12 @@ univariate distributions, multivariate normal distribution, and all models
 which input and predict values representable as contingency tables. 
 
 
-You can download the ivitation [here](pistar_invitation.pdf)	
+You can download the ivitation [here](pistar_invitation.pdf).	
 
 
 ## Installation
 
-Yu can install the `pistar` packageeusing `devtools` 
+You can install the `pistar` package eusing `devtools` 
 
 `library(devtools)`
 
