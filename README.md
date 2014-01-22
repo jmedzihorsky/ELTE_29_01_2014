@@ -7,9 +7,7 @@ The workshop will take place at 14:30 on
 [`pistar`](https://github.com/jmedzihorsky/pistar) is an
 [`R`](https://www.r-project.org) 
 package for applying the
-[Rudas](http://statisztika.tatk.elte.hu/tanszeki_honlap/Rudas_Tamas.htm)-
-[Clogg](http://www.nytimes.com/1995/05/10/obituaries/clifford-c-clogg-45-authority-on-demographics.html)
--[Lindsay](http://stat.psu.edu/people/bgl)
+[Rudas](http://statisztika.tatk.elte.hu/tanszeki_honlap/Rudas_Tamas.htm)-[Clogg](http://www.nytimes.com/1995/05/10/obituaries/clifford-c-clogg-45-authority-on-demographics.html)-[Lindsay](http://stat.psu.edu/people/bgl)
  [mixture index of fit](http://www.jstor.org/stable/10.2307/2346187)
  in a variety of settings.
 
@@ -26,12 +24,12 @@ univariate distributions, multivariate normal distribution, and all models
 which input and predict values representable as contingency tables. 
 
 
-You can download the ivitation [here](pistar_invitation.pdf).	
+You can download the invitation [here](pistar_invitation.pdf).	
 
 
 ## Installation
 
-You can install the `pistar` package eusing `devtools` 
+You can install the `pistar` package using `devtools` 
 
 `library(devtools)`
 
