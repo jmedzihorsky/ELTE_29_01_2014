@@ -38,4 +38,11 @@ You can install the `pistar` package using `devtools`
 
 ## Examples
 
-Examples for workshop participants will be added later.
+An R script with examples is available [here](pistar_intro.R).
+
+
+## Presentation
+
+The slides are available [here](eltepi.pdf).
+
+	
