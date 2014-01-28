@@ -33,7 +33,7 @@ You can install the `pistar` package using `devtools`
 
 `library(devtools)`
 
-`install_github("pistar", username="jmedzihorsky")
+`install_github("pistar", username="jmedzihorsky")`
 
 
 ## Examples
